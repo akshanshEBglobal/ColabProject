@@ -9,6 +9,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //This is the Akshansh branch Message 1
+    }
+
+    public void akshansh()
+    {
+        //Akshansh Comment 2
     }
 }
