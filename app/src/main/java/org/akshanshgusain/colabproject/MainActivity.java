@@ -1,8 +1,7 @@
 package org.akshanshgusain.colabproject;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.widget.Toast;
+import android.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -13,6 +12,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void akshansh()
+    {
+        //Akshansh Comment 2
+    }
+
+    public void akshansh2()
     {
         //Akshansh Comment 2
     }
