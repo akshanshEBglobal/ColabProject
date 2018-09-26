@@ -1,8 +1,7 @@
 package org.akshanshgusain.colabproject;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.widget.Toast;
+import android.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -16,4 +15,5 @@ public class MainActivity extends AppCompatActivity {
          //This a dem meathod where all the changes from Akshansh Branch will be done
          //Now a new java class will be made in Akshansh Branch
      }
+
 }
