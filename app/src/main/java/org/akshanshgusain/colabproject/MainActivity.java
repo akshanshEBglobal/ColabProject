@@ -10,7 +10,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //hii sir how are you..
     }
 
     public void akshansh()
@@ -18,9 +17,8 @@ public class MainActivity extends AppCompatActivity {
         //Akshansh Comment 2
     }
 
-    public  void  mytest()
+    public void akshansh2()
     {
-        Toast.makeText(this, "hii this my new method", Toast.LENGTH_SHORT).show();
-        //Why this toast man?
+        //Akshansh Comment 2
     }
 }
