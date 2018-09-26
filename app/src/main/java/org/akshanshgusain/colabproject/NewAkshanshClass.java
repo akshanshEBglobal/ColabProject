@@ -3,4 +3,9 @@ package org.akshanshgusain.colabproject;
 public class NewAkshanshClass
 {
     //Akshansh just Created this calss
+    //Akshansh has created this new Meathod
+                          public void methodOne()
+                          {
+
+                          }
 }
