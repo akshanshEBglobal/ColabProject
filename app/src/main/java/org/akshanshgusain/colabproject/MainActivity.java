@@ -20,5 +20,8 @@ public class MainActivity extends AppCompatActivity {
     public void akshansh2()
     {
         //Akshansh Comment 2
+        Toast.makeText(this, "Random Toast", Toast.LENGTH_SHORT).show();
+        //Why this  ^^^^ toast man?
+
     }
 }
